@@ -61,7 +61,7 @@
     "source-map-support": "0.5.20",
     "validate.js": "0.13.1",
     "webdriverio": "6.12.1",
-    "ws": "7.5.5"
+    "ws": "8.2.3"
   },
   "devDependencies": {
     "@appium/eslint-config-appium": "^4.7.2",
