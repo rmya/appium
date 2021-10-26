@@ -114,7 +114,7 @@
     "sync-monorepo-packages": "0.3.4",
     "type-fest": "2.5.1",
     "validate.js": "0.13.1",
-    "webdriverio": "6.12.1",
+    "webdriverio": "7.16.3",
     "yaml-js": "0.3.1"
   },
   "engines": {
